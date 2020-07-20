@@ -1,0 +1,49 @@
+
+
+
+
+html, body, canvas {
+
+	margin:  0;
+	outline: none;
+	border:  none;
+	padding: 0;
+}
+body {
+
+	background-color: #222;
+	color: #FFF;
+	font-family: 
+		'SF Pro Text', 
+		 system-ui, 
+		-apple-system, 
+		'Helvetica Neue', 
+		'Helvetica', 
+		'Arial', 
+		 sans-serif;
+}
+section {
+
+	margin: 120px auto 240px auto;
+	max-width: 480px;
+	font-size:   20px;
+	line-height: 30px;
+	font-weight: 300;
+}
+code {
+
+	background-color: hsla( 95, 60%, 50%, 0.2 );
+	padding: 2px 4px;
+	color: hsl( 95, 60%, 50% );
+}
+section li + li {
+
+	margin-top: 20px;
+}
+a {
+
+	color: hsl( 190, 60%, 50% );
+}
+
+
+
